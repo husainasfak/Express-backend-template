@@ -7,3 +7,6 @@ Steps
 - Install prettier for code formating exact
 - Eslint setup exact
 - git setup
+- logger - winston
+- error handeling setup -  http-errors
+- env setup- config and dotenv
